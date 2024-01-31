@@ -15,13 +15,13 @@ Additional information about the observations gathered by the miniGNI V1.0 are i
 ### The Door  
 The door was removed from the miniGNIv1 to the miniGNI+ and replaced with an encapsulating cover. This cover offers minimal resistance against the micro-servo motor resulting in fewer failures of the door closure system (a common issue with version 1). For over 100 collected samples, the miniGNI+ closure system has never failed. Additionally, this new closure ensures no airflow around the polycarbonate slide during transport, offering increased protection from contamination over the prior model. 
 
-## The RH Sensor
+### The RH Sensor
 The relative humidity sensor of miniGNIv1 utilized Adafruits DHT22/2301 sensor but has been replaced with Adafruits 2301B. The 2301B sensor is practically the same, however, utilizes an I<sup>2<\sup>C interface! This results in some minor changes to the wiring. 
 
-## Detachable Wing
+### Detachable Wing
 The wing of the miniGNI+ clips on for easy storage of the instruments. Several STL files are included at various lengths. 
 
-## Anemometer
+### Anemometer
 The largest upgrade to the miniGNI+ is the addition of an in-situ anemometer. A computer fan has been converted to an anemometer to allow for in-situ wind measurements, rather than utilizing a ground station with a wing power law conversion to calculate wind aloft. 
 
 # In-situ Instrumentation: 
