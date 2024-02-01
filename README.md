@@ -1,5 +1,5 @@
 # miniGNI+ - An update to the original miniGNI 
-<img src="https://github.com/klackerman00/miniGNI_plus/blob/main/miniGNI_plus.jpg" width="100px" height="200px"><img src="https://github.com/klackerman00/miniGNI_plus/blob/main/miniGNI_plus_open.jpg" width="100px" height="200px">
+<img src="https://github.com/klackerman00/miniGNI_plus/blob/main/miniGNI_plus.jpg" width="470px" height="670px"><img src="https://github.com/klackerman00/miniGNI_plus/blob/main/miniGNI_plus_open.jpg" width="500px" height="670px">
 
 Welcome to the miniGNI+, an extension of the original [miniature giant nuclei impactor (mini-GNI)](https://github.com/nugentlab/miniGNI) created at the University of Hawai'i by the [Nugent Lab](http://alisonnugent.com/). More information on the original instrument can be found in this paper: 
 
