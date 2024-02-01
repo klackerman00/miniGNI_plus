@@ -28,7 +28,7 @@ The largest upgrade to the miniGNI+ is the addition of an in-situ anemometer. A 
 - Temperature (+/- 0.3 \deg C)
 - Relative Humidity (+/- 2%)
 - Pressure/Altimetry (+/- 1.5 Pa, ~0.3 m)
-- Wind Speed (+/- 0.5 m s<sup>-1<\sup>
+- Wind Speed (+/- 0.5 m s<sup>-1 <\sup>
 - Sea Salt Aerosol Size Distribution 
 
 ### Optional Add-On
