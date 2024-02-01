@@ -27,7 +27,7 @@ The wing of the miniGNI+ clips on for easy storage of the instruments. Several S
 The largest upgrade to the miniGNI+ is the addition of an in-situ anemometer. A computer fan has been converted to an anemometer to allow for in-situ wind measurements, rather than utilizing a ground station with a wing power law conversion to calculate wind aloft. 
 
 # In-situ Instrumentation: 
-- Temperature (+/- 0.3 \deg C)
+- Temperature (+/- 0.3 &deg;C)
 - Relative Humidity (+/- 2%)
 - Pressure/Altimetry (+/- 1.5 Pa, ~0.3 m)
 - Wind Speed (+/- 0.5 m s<sup>-1</sup>)
