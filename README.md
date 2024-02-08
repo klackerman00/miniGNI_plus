@@ -1,5 +1,5 @@
 # miniGNI+ - An update to the original miniGNI 
-Welcome to the miniGNI+, an extension of the original [miniature giant nuclei impactor (mini-GNI)](https://github.com/nugentlab/miniGNI) created at the University of Hawai'i by the [Nugent Lab](http://alisonnugent.com/). More information on the original instrument can be found in this paper: 
+Welcome to the miniGNI+, an extension of the original [miniature giant nuclei impactor (mini-GNI)](https://github.com/nugentlab/miniGNI) created at the University of Hawai'i by the [Nugent Lab](http://alisonnugent.com/). This instrument utilizes the same methodology as the original miniGNI with an improved design that facilitates use. Additionally, we've included an in-situ anemometer. More information on the methods of the original instrument can be found in this paper: 
 
 > A New Instrument for Determining the Coarse-Mode Sea Salt Aerosol Size Distribution - [Taing et al., 2021](https://journals.ametsoc.org/view/journals/atot/38/11/JTECH-D-20-0197.1.xml)
 
