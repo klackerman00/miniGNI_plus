@@ -37,7 +37,7 @@ The largest upgrade to the miniGNI+ is the addition of an in-situ anemometer. A 
 - Orientation (Euler Angles)
 
 # Assembly
-<img src = "https://github.com/klackerman00/miniGNI_plus/blob/main/parts.png" width="350px" height="500px">
+<img src = "https://github.com/klackerman00/miniGNI_plus/blob/main/parts.png" width="500px" height="500px">
 Gather the parts necessary for assembly. You'll need: 
 
 ### 3D Printed Parts: 
@@ -54,7 +54,7 @@ Gather the parts necessary for assembly. You'll need:
 - Resistor (Digikey, 10k ohm)
 - Microserver motor (Adafruit, P169)
 - MicroSD card
-- Computer Fan (NF-A4x10 FLX Computer Fan) - referenece (https://leemangeophysicalllc.github.io/mini-GNI/fan_mods.html)
+- Computer Fan (NF-A4x10 FLX Computer Fan) - [Reference to Leeman Geophysical, LLC](https://leemangeophysicalllc.github.io/mini-GNI/fan_mods.html)
 
 ### Hardware: 
 - Clevis Pin (3/16 x 5/8 inches)
@@ -63,10 +63,8 @@ Gather the parts necessary for assembly. You'll need:
 - Wire for soldering together these parts
   
 # Fritzing Diagram 
-
+<img src = "https://github.com/klackerman00/miniGNI_plus/blob/main/miniGNIplus_diagram_bb.png" width="500px" height="500px">
 Connect the above parts using the following electrical diagram. 
-![Fritzing Diagram.]([https://github.com/klackerman00/miniGNI_plus/blob/main/miniGNIplus_diagram_bb.png])
-
 
 # Base Station 
 The base station can be made in accordance with the original base station found in [this document](https://github.com/nugentlab/miniGNI/blob/master/miniGNI_Assembly/DocumentingAssembly.docx) on the original miniGNI page. Ensure that the frequency set on your miniGNI+ and the matching base station are the same! 
