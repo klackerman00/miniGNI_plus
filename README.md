@@ -68,3 +68,44 @@ Connect the above parts using the following electrical diagram.
 
 # Base Station 
 The base station can be made in accordance with the original base station found in [this document](https://github.com/nugentlab/miniGNI/blob/master/miniGNI_Assembly/DocumentingAssembly.docx) on the original miniGNI page. Ensure that the frequency set on your miniGNI+ and the matching base station are the same! 
+
+# Arduino IDE Software Upload
+We're currently on the V2 of the miniGNI+! Please use this updated source code that accounts for the change in relative humidity sensor from the original analog sensor to the new I2C sensor. Both code for the miniGNI and miniGNI base station are provided. 
+
+We utilized some outdated versions of specific libraries (which we provide below). We cannot guarantee that these will work with updated libraries. 
+
+### Libraries in use and version numbers: 
+- Ethernet by Various (2.0.0)
+- Firmata by Firmata (2.5.8)
+- Keyboard by Arduino (1.0.2)
+- LiquidCrystal by Arduino, Adafruit (1.0.7)
+- Mouse by Arduino (1.0.1)
+- SD by Arduino, SparkFun (1.2.4)
+- Servo by Michael (1.1.7)
+- Stepper by Arduino (1.1.3)
+- Temboo by Temboo (1.2.1)
+- Adafruit AHTX0 by Adafruit (2.0.5)
+- Adafruit BNO055 by Adafruit (1.4.3)
+- Adafruit BusIO by Adafruit (1.7.2)
+- Adafruit Circuit Playground by Adafruit (1.10.4)
+- Adafruit GFX Library by Adafruit (1.10.6)
+- Adafruit ILI9341 by Adafruit (1.5.6)
+- Adafruit MPL3115A2 by Adafruit (1.2.1)
+- Adafruit STMPE610 by Adafruit (1.1.3)
+- Adafruit TouchScreen by Adafruit (1.1.1)
+- Adafruit Unified Sensor by Adafruit (1.1.4)
+- DHT sensor Library by Adafruit (1.4.1)
+- FIR filter by Leeman Geophysical LLC by Adafruit (0.1.1)
+- RF24 by TMRh20 (1.3.11)
+- RTClib by Adafruit (1.12.5)
+- RadioHead by Mike McCauley (1.112)
+- TinyWireM by Adafruit (1.1.0)
+- Bridge by Arduino (1.7.0)
+- Esplora by Arduino (1.0.4)
+- GSM by Arduino (1.0.6)
+- Robot Control by Arduino (1.0.4)
+- Robot IR Remote by Arduino (2.0.0)
+- Robot Motor by Arduino (1.0.3)
+- SpacebrewYun by Julio Terra (1.0.2)
+- TFT by Arduino, Adafruit (1.0.6)
+- WiFI by Arduino (1.2.7)
