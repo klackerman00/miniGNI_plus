@@ -114,3 +114,8 @@ We utilized some outdated versions of specific libraries (which we provide below
 
 ### Specific Boards to Download: 
 - Adafruit SAMD Boards (1.7.17)
+
+This can be added by going to the Arduino IDE in the top right corner > Settings, and then adding this link to the "Additional Boards Manager URL" 
+https://adafruit.github.io/arduino-board-index/package_adafruit_index.json
+
+
