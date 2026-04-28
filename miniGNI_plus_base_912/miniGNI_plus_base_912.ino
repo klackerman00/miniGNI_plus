@@ -1,7 +1,6 @@
 //
 //  for the anemometer base station
-//  Version 1
-//  Frequency: 916 MHz
+//  Version 2
 
 
 //#define USE_SERIAL //comment this out if not using the serial stream
