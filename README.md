@@ -111,3 +111,6 @@ We utilized some outdated versions of specific libraries (which we provide below
 - SpacebrewYun by Julio Terra (1.0.2)
 - TFT by Arduino, Adafruit (1.0.6)
 - WiFI by Arduino (1.2.7)
+
+### Specific Boards to Download: 
+- Adafruit SAMD Boards (1.7.17)
