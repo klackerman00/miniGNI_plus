@@ -55,6 +55,8 @@ Gather the parts necessary for assembly. You'll need:
 - Microserver motor (Adafruit, P169)
 - MicroSD card
 - Computer Fan (NF-A4x10 FLX Computer Fan) - [Reference to Leeman Geophysical, LLC](https://leemangeophysicalllc.github.io/mini-GNI/fan_mods.html)
+- Wire for soldering parts together
+- Antenna wire (specifically cut to 8.3 cm) 
 
 ### Hardware: 
 - Clevis Pin (3/16 x 5/8 inches)
