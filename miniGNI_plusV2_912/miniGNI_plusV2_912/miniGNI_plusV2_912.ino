@@ -1,7 +1,7 @@
 //
 // Software for anemometer unit
 // Version 2
-// Frequency: 916 MHz
+// Frequency: 912 MHz
 // v1  --  07/03/2019  Original file
 // v2  --  08/09/2019  Added support for MPL3115A2 barometer
 // v3  --  10/03/2019  Added ability for multiple anemometers to connect to one control station
